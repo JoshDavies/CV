@@ -1,5 +1,7 @@
 <h1 align="center">--- Josh Davies ---</h1>
 
+![alt text](https://github.com/JoshDavies/CV/blob/master/JoshDavies.png?raw=true)
+
 <p align="center">
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
