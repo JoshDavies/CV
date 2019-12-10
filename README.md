@@ -11,9 +11,7 @@
   <a href="#Education">Education</a> •
   <a href="#Experience">Experience</a> •
   <a href="#Hobbies">Hobbies</a>
-</p>
-
-[Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/)
+</p> [Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/)
 
 # Profile
 Full stack software Developer
