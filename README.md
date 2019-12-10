@@ -11,7 +11,7 @@
 
 [Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/)
 
-## Profile
+# Profile
 Full stack software Developer
 
 # Projects
