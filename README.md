@@ -1,6 +1,9 @@
 <div align="center">
+  
 ![alt text](https://github.com/JoshDavies/CV/blob/master/JoshDavies.png?raw=true)  
+  
 </div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkin</a>
   <a href="#Profile">Profile</a> •
