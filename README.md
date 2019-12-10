@@ -1,12 +1,8 @@
 <div align="center">
-  
-![alt text](https://github.com/JoshDavies/CV/blob/master/JoshDavies.png?raw=true)
-  
+![alt text](https://github.com/JoshDavies/CV/blob/master/JoshDavies.png?raw=true)  
 </div>
-
-
 <p align="center">
-  [Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/) 
+  <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkin</a>
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
   <a href="#Skills">Skills</a> •
