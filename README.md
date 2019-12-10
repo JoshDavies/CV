@@ -4,8 +4,9 @@
   
 </div>
 
-[Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/) 
+
 <p align="center">
+  [Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/) 
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
   <a href="#Skills">Skills</a> •
