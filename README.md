@@ -4,6 +4,7 @@
   
 </div>
 
+[Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/) 
 <p align="center">
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
@@ -11,7 +12,7 @@
   <a href="#Education">Education</a> •
   <a href="#Experience">Experience</a> •
   <a href="#Hobbies">Hobbies</a>
-</p> [Linkin](https://www.linkedin.com/in/joshua-davies-70bb75128/)
+</p>
 
 # Profile
 Full stack software Developer
