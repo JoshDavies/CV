@@ -1,6 +1,8 @@
 <div align="center">
+  
 ![alt text](https://github.com/JoshDavies/CV/blob/master/JoshDavies.png?raw=true)
-<div>
+  
+</div>
 
 <p align="center">
   <a href="#Profile">Profile</a> •
