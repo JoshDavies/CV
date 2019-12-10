@@ -44,6 +44,7 @@ I started work in the property sector inexperienced. By demonstrating a skill an
 ❇️ Swift, Xcode, XCTest  
 ❇️ Git, OOD, TDD / BDD, SOLID, Agile, pair programming  
 ❇️ Before joining Makers, whilst looking for ways to break into the tech industry I studied salesforce administration online.  
+
 -----------
 # Education
 
