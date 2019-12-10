@@ -17,6 +17,9 @@
 # Profile
 Full stack software Developer
 
+> Measure Twice Cut Once
+
+
 # Projects
 
 ### 🔸 Jack the Ripper
@@ -43,7 +46,7 @@ I started work in the property sector inexperienced. By demonstrating a skill an
 ❇️ HTTP, HTML, CSS, SQL, MVC, DOM  
 ❇️ Swift, Xcode, XCTest  
 ❇️ Git, OOD, TDD / BDD, SOLID, Agile, pair programming  
-❇️ Before Makers, whilst looking for ways to break into the tech industry I studied salesforce administration online.  
+❇️ Before Makers, whilst looking for ways to break into the tech industry, I studied salesforce administration online.  
 
 -----------
 # Education
