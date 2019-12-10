@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkin</a>
+  <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkin</a> •
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
   <a href="#Skills">Skills</a> •
