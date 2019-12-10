@@ -14,7 +14,7 @@
   <a href="#Hobbies">Hobbies</a>
 </p>
 
-## Profile
+# Profile
 Full stack software Developer
 
 # Projects
