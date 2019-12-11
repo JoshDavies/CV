@@ -15,22 +15,26 @@
 </p>
 
 # Profile
-Full stack software Developer
+Full stack software Engineer.
 
 > Measure Twice Cut Once
 
+My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. For me, programming combines my two passions; problem solving & creativity.
 
+The best quality about tech is it's sense of community and ability to make the impossible, possible. A priority I look for in a company is one that is passionate and can define the value it adds to the world. I am motivated by oppertunities to learn & become a better developer than I was yesterday.
+
+-------------
 # Projects
 
 ### 🔸 Jack the Ripper
 **Swift, Xcode, XCTest, Travis CI**  
-A team based project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.  
+A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.  
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
 [GitHub Link](https://github.com/JoshDavies/Team-6-Game)  
 
 ### 🔸 LizardBook
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
-A team based project, working to a client's brief, to create a social media platform.  
+A team project, working to a client's brief to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
 [GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)  
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
@@ -38,9 +42,10 @@ A team based project, working to a client's brief, to create a social media plat
 -------------
 # Skills
 #### 🔸 problem solving
+Communication & teamwork are key.
 
 #### 🔸 Fast learner
-I started work in the property sector inexperienced. By demonstrating a skill and willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.
+I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.
 
 ❇️ Ruby, Rspec, Rails, Active Record, Datamapper, Capybara, Sinatra  
 ❇️ JavaScript, Jasmine, jQuery  
@@ -77,8 +82,8 @@ GCSE – (A*)x6.5 (Maths, Statistics, Biology, Chemistry, Physics, Art, IT shor
 Responsible for maintaining a diverse portfolio of private residential properties in London. Acting as the central point of contact for 14 sites with a total of 495 units. (Managing communal structures & areas not individual apartments).
 
 **Problem Solving:**  
-✅ Drawing on knowledge of each unique property; it's layout, history and residents, to anticipate issues a contractor may encounter onsite. Ensuring instructions are clear and that sufficient site access has been arranged between multiple parties.  
-✅ Making decisions regarding the cost effectiveness of a short or long term resolution.
+✅ Drawing on knowledge of each unique property; it's layout, history & residents to anticipate issues a contractor may encounter onsite. Ensuring instructions are clear and that sufficient site access has been arranged between multiple parties.  
+✅ Making decisions regarding the cost effectiveness of a short or long term solution.
 
 **Communication:**  
 ✅ Advising leaseholders on their account finances, lease contract or building insurance.  
