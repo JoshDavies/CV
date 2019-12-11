@@ -32,7 +32,7 @@ A team based project to create an iOS Detective App in less than two weeks, all 
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team based project, working to a client's brief, to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
-[GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)
+[GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)  
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
 -------------
