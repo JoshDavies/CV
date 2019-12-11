@@ -21,7 +21,7 @@ Full stack software Engineer.
 
 My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. For me, programming combines my two passions; problem solving & creativity.
 
-The best quality about tech is it's sense of community and ability to make the impossible, possible. A priority I look for in a company is one that is passionate and can define the value it adds to the world. I am motivated by oppertunities to learn & become a better developer than I was yesterday.
+The best quality about tech is it's sense of community and ability to make the impossible, possible. A priority I'm looking for in a company is one that is passionate and can define the value it adds to the world. I am motivated by oppertunities to learn & become a better developer than I was yesterday.
 
 -------------
 # Projects
