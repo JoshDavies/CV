@@ -32,7 +32,8 @@ A team based project to create an iOS Detective App in less than two weeks, all 
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team based project, working to a client's brief, to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
-[GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)  
+[GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)
+[HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
 -------------
 # Skills
@@ -42,7 +43,7 @@ A team based project, working to a client's brief, to create a social media plat
 I started work in the property sector inexperienced. By demonstrating a skill and willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.
 
 ❇️ Ruby, Rspec, Rails, Active Record, Datamapper, Capybara, Sinatra  
-❇️ JavaScript, Jasmine, jQuery, React  
+❇️ JavaScript, Jasmine, jQuery  
 ❇️ HTTP, HTML, CSS, SQL, MVC, DOM  
 ❇️ Swift, Xcode, XCTest  
 ❇️ Git, OOD, TDD / BDD, SOLID, Agile, pair programming  
