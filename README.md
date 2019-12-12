@@ -43,11 +43,12 @@ A team project, working to a client's brief to create a social media platform.
 # Skills
 #### 🔸 problem solving
 Communication & teamwork are key.
-**Problem Solving:**  
-✅ Drawing on knowledge of each unique property; it's layout, history & residents to anticipate issues a contractor may encounter onsite. Ensuring instructions are clear and that sufficient site access has been arranged between multiple parties.  
-✅ Making decisions regarding the cost effectiveness of a short or long term solution.
-✅ Strong creative and visual communication skills.  
-✅ Accustom to critical self-reflection and setting personal goals.  
+**Problem Solver:**  
+Drawing on knowledge of each unique property; it's layout, history & residents to anticipate issues a contractor may encounter onsite. Ensuring instructions are clear and that sufficient site access has been arranged between multiple parties. cost effectiveness of a solution.  
+
+**Creative:**  
+Strong creative and visual communication skills.   
+Accustom to critical self-reflection and setting personal goals.  
 
 #### 🔸 Fast learner
 I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.
@@ -56,8 +57,8 @@ I started work in the property sector inexperienced. By demonstrating a willingn
 # Education
 
 #### 🔸 Makers Academy (Aug - Dec 2019: 4 weeks offsite pre-course & 12 weeks onsite)
-An Intensive software developer course that focuses on independent learning. [Makers Website](https://makers.tech/)
-❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile, pair programming  
+An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)
+❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile  
 ❇️ Ruby, Rails, Rspec, Capybara  
 ❇️ JavaScript, Jasmine, jQuery   
 ❇️ HTTP, HTML, CSS, SQL  
@@ -80,17 +81,13 @@ Responsible for maintaining a diverse portfolio of private residential propertie
 ✅ Overseeing major works projects, e.g. external redecorations, subsidence, etc.   
 ✅ Managing property finances; reviewing expenditure, maintaining cash flow and drafting new financial year budgets.  
 ✅ Managing onsite staff; cleaners, gardeners & caretakers.   
-✅ Insuring lease contracts are adhered too.   
-✅ raising complaints when contractor services are below standard.   
 
 ### *Assistant Property Manager*  
 Assistant to four property managers and an associate director.   
 ✅ Covering team member’s portfolio during annual leave or emergency situations.   
 ✅ Supporting the Customer contact centre; training new staff & answering overflow calls.  
-✅ Reception cover, front of house duties.  
-✅ Chasing contractors for updates or attendance.   
+✅ Reception / front of house cover.  
 ✅ Drafting official letters to residents on behalf of team members.  
-✅ Keeping team members up-to-date on progression of assigned tasks.  
 ✅ Investigating database records to settle missing payment enquiries.  
 ✅ Using admin rights to troubleshoot customer’s online account issues.
 
