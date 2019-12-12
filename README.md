@@ -41,12 +41,11 @@ A team project, working to a client's brief to create a social media platform.
 
 -------------
 # Skills
-#### 🔸 problem solving
+#### 🔸 problem solver
 Communication & teamwork are key.
-**Problem Solver:**  
 Drawing on knowledge of each unique property; it's layout, history & residents to anticipate issues a contractor may encounter onsite. Ensuring instructions are clear and that sufficient site access has been arranged between multiple parties. cost effectiveness of a solution.  
 
-**Creative:**  
+#### 🔸 Creative   
 Strong creative and visual communication skills.   
 Accustom to critical self-reflection and setting personal goals.  
 
