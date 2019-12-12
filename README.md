@@ -73,29 +73,29 @@ BA (Hons) - Illustration (2:1)
 ### 🔸 **Residential Management Group**
 (March 2017 – October 2018)  
 ### *Trainee Property Manager*  
-Responsible for maintaining a diverse portfolio of private residential properties in London. Acting as the central point of contact for 14 sites with a total of 495 units. (Managing communal structures & areas not individual apartments).
-✅ Advising leaseholders on their account finances, lease contract or building insurance.  
-✅ Meeting with clients & residents onsite. 
-✅ Prioritising urgent issues whilst delegating smaller tasks to team members.  
-✅ Overseeing major works projects, e.g. external redecorations, subsidence, etc.  
+Responsible for maintaining a diverse portfolio of private residential properties in London. Acting as the central point of contact for 14 sites with a total of 495 units. (Managing communal structures & areas not individual apartments).  
+✅ Advising leaseholders on their account finances, lease contract or building insurance.   
+✅ Meeting with clients & residents onsite.   
+✅ Prioritising urgent issues whilst delegating smaller tasks to team members.   
+✅ Overseeing major works projects, e.g. external redecorations, subsidence, etc.   
 ✅ Managing property finances; reviewing expenditure, maintaining cash flow and drafting new financial year budgets.  
-✅ Managing onsite staff; cleaners, gardeners & caretakers.  
-✅ Insuring lease contracts are adhered too.  
-✅ raising complaints when contractor services are below standard.  
+✅ Managing onsite staff; cleaners, gardeners & caretakers.   
+✅ Insuring lease contracts are adhered too.   
+✅ raising complaints when contractor services are below standard.   
 
 ### *Assistant Property Manager*  
 Assistant to four property managers and an associate director.   
-✅ Covering team member’s portfolio during annual leave or emergency situations.  
-✅ Supporting the Customer contact centre; training new staff & answering overflow calls.
-✅ Reception cover, front of house duties.
-✅ Chasing contractors for updates or attendance.  
+✅ Covering team member’s portfolio during annual leave or emergency situations.   
+✅ Supporting the Customer contact centre; training new staff & answering overflow calls.  
+✅ Reception cover, front of house duties.  
+✅ Chasing contractors for updates or attendance.   
 ✅ Drafting official letters to residents on behalf of team members.  
-✅ Keeping team members up-to-date on progression of assigned tasks.
+✅ Keeping team members up-to-date on progression of assigned tasks.  
 ✅ Investigating database records to settle missing payment enquiries.  
 ✅ Using admin rights to troubleshoot customer’s online account issues.
 
 ### *Customer Service Advisor*  
-✅ Dealing with standard financial / property queries as well as customers in highly stressful situations.
+Dealing with standard financial / property queries as well as customers in highly stressful situations.
 
 ### 🔸 **The Affordable Art Fair**
  *Event Assistant* (Short-term events: 2014 – 2017)   
