@@ -39,24 +39,28 @@ A team project, working to a client's brief to create a social media platform.
 [GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)  
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
+### 🔸 Bowling Challenge
+**JavaScript, Jasmine, JQuery**  
+A weekend challenge, I enjoyed coding the complexity of the rules and using jQuery to output much more information than was input.
+https://github.com/JoshDavies/bowling-challenge
+
 -------------
 # Skills
-#### 🔸 problem solver
+#### 🔸 Problem solver
 Communication & teamwork are key.
-Drawing on knowledge of each unique property; it's layout, history & residents to anticipate issues a contractor may encounter onsite. Ensuring instructions are clear and that sufficient site access has been arranged between multiple parties. cost effectiveness of a solution.  
-
-#### 🔸 Creative   
-Strong creative and visual communication skills.   
-Accustom to critical self-reflection and setting personal goals.  
+As a property manager I used knowledge of each unique property to anticipate issues contractors might encounter onsite. Ensuring instructions are clear & sufficient site access has been arranged between multiple parties. Weighing up the cost effectiveness of a solution.  
 
 #### 🔸 Fast learner
 I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.
+
+#### 🔸 Creative   
+Strong creative and visual communication skills.   
 
 -----------
 # Education
 
 #### 🔸 Makers Academy (Aug - Dec 2019: 4 weeks offsite pre-course & 12 weeks onsite)
-An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)
+An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)   
 ❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile  
 ❇️ Ruby, Rails, Rspec, Capybara  
 ❇️ JavaScript, Jasmine, jQuery   
