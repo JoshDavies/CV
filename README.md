@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkin</a> •
+  <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkedin</a> •
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
   <a href="#Skills">Skills</a> •
@@ -35,7 +35,7 @@ A team project to create an iOS Detective App in less than two weeks, all with n
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team project, working to a client's brief to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
-[GitHub Link for more information](https://github.com/JoshDavies/acebook--LizardBook-)  
+[GitHub Link for more information](https://github.com/JoshDavies/acebook--LizardBook-) • 
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
 ### 🔸 Bowling Challenge
