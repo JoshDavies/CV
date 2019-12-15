@@ -25,40 +25,37 @@ The best quality about tech is it's sense of community and ability to make the i
 
 -------------
 # Projects
-
 ### 🔸 Jack the Ripper
 **Swift, Xcode, XCTest, Travis CI**  
-A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.  
+A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
-[GitHub Link](https://github.com/JoshDavies/Team-6-Game)  
+[GitHub Link for more information](https://github.com/JoshDavies/Team-6-Game)  
 
 ### 🔸 LizardBook
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team project, working to a client's brief to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
-[GitHub Link](https://github.com/JoshDavies/acebook--LizardBook-)  
+[GitHub Link for more information](https://github.com/JoshDavies/acebook--LizardBook-)  
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
 ### 🔸 Bowling Challenge
 **JavaScript, Jasmine, JQuery**  
-A weekend challenge, I enjoyed coding the complexity of the rules and using jQuery to output much more information than was input.
-https://github.com/JoshDavies/bowling-challenge
+A weekend challenge. I enjoyed coding the complexity of the rules and using jQuery to output more information than was entered.  
+[GitHub Link for more information](https://github.com/JoshDavies/bowling-challenge)  
 
 -------------
 # Skills
 #### 🔸 Problem solver
-Communication & teamwork are key.
-As a property manager I used knowledge of each unique property to anticipate issues contractors might encounter onsite. Ensuring instructions are clear & sufficient site access has been arranged between multiple parties. Weighing up the cost effectiveness of a solution.  
-
-#### 🔸 Fast learner
-I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.
+Communication & teamwork are key to solving a problem. As a property manager I used knowledge of each unique property to anticipate issues contractors might encounter onsite. Ensuring instructions were clear & sufficient site access had been arranged between multiple parties. As a coder, I enjoy breaking complexity down into simple steps.  
 
 #### 🔸 Creative   
-Strong creative and visual communication skills.   
+I am Passionate about good design, including writting well structured code that is easy to understand. Studying as an artist, taught me to continually self-evaluate work and listen to peer feedback in order to improve.   
+
+#### 🔸 Fast learner
+I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.  
 
 -----------
 # Education
-
 #### 🔸 Makers Academy (Aug - Dec 2019: 4 weeks offsite pre-course & 12 weeks onsite)
 An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)   
 ❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile  
@@ -73,7 +70,6 @@ BA (Hons) - Illustration (2:1)
 
 ----------------
 # Experience
-
 ### 🔸 **Residential Management Group**
 (March 2017 – October 2018)  
 ### *Trainee Property Manager*  
