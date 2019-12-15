@@ -111,5 +111,6 @@ Dealing with standard financial / property queries as well as customers in highl
 
 --------
 # Hobbies
-Rugby, Table-tennis, Art galleries, Nature, Fantasy / Sci-fi novels, board-games.   
-[![CodeWars](https://www.codewars.com/users/JoshDavies/badges/small)
+Rugby, Table-tennis, Art galleries, Nature, Fantasy / Sci-fi novels, board-games.  
+  
+![CodeWars](https://www.codewars.com/users/JoshDavies/badges/small)
