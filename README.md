@@ -26,7 +26,7 @@ The best quality about tech is it's sense of community and ability to make the i
 -------------
 # Projects
 ### 🔸 Jack the Ripper
-**Swift, Xcode, XCTest, Travis CI**  
+**Swift, Xcode, XCTest**  
 A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
 [GitHub Link for more information](https://github.com/JoshDavies/Team-6-Game)  
