@@ -17,11 +17,11 @@
 # Profile
 Full stack software Engineer.
 
-> Measure Twice Cut Once
+> Measure Twice, Cut Once.
 
 My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. For me, programming combines my two passions; problem solving & creativity.
 
-The best quality about tech is it's sense of community and ability to make the impossible, possible. A priority I'm looking for in a company is one that is passionate and can define the value it adds to the world. I am motivated by oppertunities to learn & become a better developer than I was yesterday.
+For me, the best quality about tech is it's sense of community and that it is constantly growing. I am eager to join a passionate company that provides oppertunities for myself to become a better developer.
 
 -------------
 # Projects
@@ -29,27 +29,27 @@ The best quality about tech is it's sense of community and ability to make the i
 **Swift, Xcode, XCTest**  
 A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
-[GitHub Link for more information](https://github.com/JoshDavies/Team-6-Game)  
+[GitHub Link for further information](https://github.com/JoshDavies/Team-6-Game)  
 
 ### 🔸 LizardBook
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team project, working to a client's brief to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
-[GitHub Link for more information](https://github.com/JoshDavies/acebook--LizardBook-) • 
+[GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-) • 
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
 ### 🔸 Bowling Challenge
 **JavaScript, Jasmine, JQuery**  
-A weekend challenge. I enjoyed coding the complexity of the rules and using jQuery to output more information than was entered.  
-[GitHub Link for more information](https://github.com/JoshDavies/bowling-challenge)  
+A web app that calculates a players bowling score. I enjoyed coding the complexity of the rules and using jQuery to output more data than was entered.   
+[GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
 
 -------------
 # Skills
 #### 🔸 Problem solver
-Communication & teamwork are key to solving a problem. As a property manager I used knowledge of each unique property to anticipate issues contractors might encounter onsite. Ensuring instructions were clear & sufficient site access had been arranged between multiple parties. As a coder, I enjoy breaking complexity down into simple steps.  
+Communication & teamwork are key to solving a problem. As a property manager I worked closely with residents and contractors to co-ordinate and resolve all kinds of issues. As a coder, I enjoy breaking complexity down into simple steps and dividing responsibilites between team members.  
 
 #### 🔸 Creative   
-I am Passionate about good design, including writting well structured code that is easy to understand. Studying as an artist, taught me to continually self-evaluate work and listen to peer feedback in order to improve.   
+I am Passionate about good design of all kinds, including devoloping well structured code. Studying as an artist, taught me to continually self-evaluate work and listen to peer feedback in order to improve.    
 
 #### 🔸 Fast learner
 I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.  
@@ -59,10 +59,11 @@ I started work in the property sector inexperienced. By demonstrating a willingn
 #### 🔸 Makers Academy (Aug - Dec 2019: 4 weeks offsite pre-course & 12 weeks onsite)
 An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)   
 ❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile  
-❇️ Ruby, Rails, Rspec, Capybara  
-❇️ JavaScript, Jasmine, jQuery   
+❇️ JavaScript, Jasmine, jQuery, React   
 ❇️ HTTP, HTML, CSS, SQL  
+❇️ Ruby, Rails, Rspec, Capybara  
 ❇️ Swift, Xcode, XCTest   
+  
 ❇️ Before Makers, whilst looking for ways to break into the tech industry, I studied salesforce administration online. 
 
 #### 🔸 Arts University Bournemouth (Sept 2011 - 2014)
