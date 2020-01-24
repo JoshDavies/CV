@@ -36,7 +36,7 @@ A team project to create an iOS Detective App in less than two weeks, all with n
 A team project, working to a client's brief to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
 [GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-) • 
-[HerokuApp Deployment](http://lizardbook.herokuapp.com/)
+[Visit Webpage Demo](http://lizardbook.herokuapp.com/)
 
 ### 🔸 Bowling Challenge
 **JavaScript (ES5), Jasmine, JQuery, chart.js**  
