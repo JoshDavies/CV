@@ -39,9 +39,10 @@ A team project, working to a client's brief to create a social media platform.
 [HerokuApp Deployment](http://lizardbook.herokuapp.com/)
 
 ### 🔸 Bowling Challenge
-**JavaScript (ES5), Jasmine, JQuery**  
+**JavaScript (ES5), Jasmine, JQuery, chart.js**  
 A web app that calculates a players bowling score. I enjoyed coding the complexity of the rules and using jQuery to output more data than was entered.   
-[GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
+[GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge) • 
+[Visit Webpage Demo](https://joshdavies.github.io/bowling-challenge/)  
 
 -------------
 # Skills
