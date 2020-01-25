@@ -15,7 +15,7 @@
 </p>
 
 # Profile
-Full stack software Engineer.
+Full stack software developer.
 
 > Measure Twice, Cut Once.
 
@@ -24,7 +24,7 @@ My previous career in the fast paced industry of property management taught me t
 For me, the best quality about tech is it's sense of community and that it is constantly growing. I am eager to join a passionate company that provides oppertunities for myself to become a better developer.
 
 -------------
-# Projects
+# Example Projects
 ### 🔸 Jack the Ripper
 **Swift, Xcode, XCTest**  
 A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
@@ -47,13 +47,13 @@ A web app that calculates a players bowling score. I enjoyed coding the surprisi
 -------------
 # Skills
 #### 🔸 Problem solver
-Communication & teamwork are key to solving a problem. As a property manager I worked closely with residents and contractors to co-ordinate and resolve all kinds of issues. As a coder, I enjoy breaking complexity down into simple steps and dividing responsibilites between team members.  
+I enjoy breaking complexity down into simple steps by planning ahead & evalutating in retrospect. As a property manager, good communication with residents & contractors was essential to resolving all kinds of issues. 
 
 #### 🔸 Creative   
-I am Passionate about good design of all kinds, including devoloping well structured code. Studying as an artist, taught me to continually self-evaluate work and listen to peer feedback in order to improve.    
+I am passionate about great design of all kinds, including devoloping well structured code. Studying as an artist, taught me to continually self-evaluate work and listen to peer feedback in order to improve.    
 
 #### 🔸 Fast learner
-I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply the same mindset to programming; learning to build an app in a new language in under two weeks.  
+I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply this same mindset to programming; learning to build an app in a new language within two weeks.  
 
 -----------
 # Education
