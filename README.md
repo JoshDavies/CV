@@ -28,22 +28,22 @@ For me, the best quality about tech is it's sense of community and that it is co
 ### 🔸 Jack the Ripper
 **Swift, Xcode, XCTest**  
 A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
-[![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
 [GitHub Link for further information](https://github.com/JoshDavies/Team-6-Game)  
-
+[![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
+  
 ### 🔸 LizardBook
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team project, working to a client's brief to create a social media platform.  
+[Visit live Webpage](http://lizardbook.herokuapp.com/)  
+[GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-)   
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
-[GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-) • 
-[Visit live Webpage](http://lizardbook.herokuapp.com/)
-
+  
 ### 🔸 Bowling Challenge
 **JavaScript (ES5), Jasmine, JQuery, chart.js**  
 A web app that calculates a players bowling score. I enjoyed coding the complexity of the rules and using jQuery to output more data than was entered.   
-[GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge) • 
 [Visit live Webpage](https://joshdavies.github.io/bowling-challenge/)  
-
+[GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
+  
 -------------
 # Skills
 #### 🔸 Problem solver
