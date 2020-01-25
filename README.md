@@ -36,13 +36,13 @@ A team project to create an iOS Detective App in less than two weeks, all with n
 A team project, working to a client's brief to create a social media platform.  
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
 [GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-) • 
-[Visit Webpage Demo](http://lizardbook.herokuapp.com/)
+[Visit live Webpage](http://lizardbook.herokuapp.com/)
 
 ### 🔸 Bowling Challenge
 **JavaScript (ES5), Jasmine, JQuery, chart.js**  
 A web app that calculates a players bowling score. I enjoyed coding the complexity of the rules and using jQuery to output more data than was entered.   
 [GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge) • 
-[Visit Webpage Demo](https://joshdavies.github.io/bowling-challenge/)  
+[Visit live Webpage](https://joshdavies.github.io/bowling-challenge/)  
 
 -------------
 # Skills
