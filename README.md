@@ -40,7 +40,7 @@ A team project, working to a client's brief to create a social media platform.
   
 ### 🔸 Bowling Challenge
 **JavaScript (ES5), Jasmine, JQuery, chart.js**  
-A web app that calculates a players bowling score. I enjoyed coding the complexity of the rules and using jQuery to output more data than was entered.   
+A web app that calculates a players bowling score. I enjoyed coding the surprisingly complex rules of Bowling & using jQuery and chart.js to return more data than was entered.   
 [Visit live Webpage](https://joshdavies.github.io/bowling-challenge/)  
 [GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
   
