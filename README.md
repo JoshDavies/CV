@@ -19,9 +19,9 @@ Full stack software developer.
 
 > Measure Twice, Cut Once.
 
-My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. For me, programming combines my two passions; problem solving & creativity.
+For me, programming combines my two passions; problem solving & creativity. My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. 
 
-For me, the best quality about tech is it's sense of community and that it is constantly growing. I am eager to join a passionate company that provides oppertunities for myself to become a better developer.
+The best quality about tech is it's community and that it there is always something new to learn. I am eager to join a passionate company that provides oppertunities to become a better developer.
 
 -------------
 # Example Projects
