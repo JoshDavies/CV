@@ -25,26 +25,26 @@ The best quality about tech is it's community and that it there is always someth
 
 -------------
 # Example Projects
-### 🔸 Jack the Ripper
+### 🔎 Jack the Ripper
 **Swift, Xcode, XCTest**  
 A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
 [GitHub Link for further information](https://github.com/JoshDavies/Team-6-Game)  
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
   
-### 🔸 LizardBook
+### 🦎 LizardBook
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team project, working to a client's brief to create a social media platform.  
 [Visit live Webpage](http://lizardbook.herokuapp.com/)  
 [GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-)   
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
   
-### 🔸 Bowling Challenge
+### 🎳 Bowling Challenge
 **JavaScript (ES5), Jasmine, JQuery, chart.js**  
 A web app that calculates a players bowling score. I enjoyed coding the surprisingly complex rules of Bowling, finding patterns within the conditions & refactoring them. The app uses jQuery & chart.js to return more data than is originally entered.   
 [Visit live Webpage](https://joshdavies.github.io/bowling-challenge/)  
 [GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
 
-###  🔸 J Davies Creative
+###  🎨 J Davies Creative
 **JavaScript, JSX, React.js, CSS**  
 A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using React.js and responsive CSS design on a personal project. The project also pays homage to where I first discoverd my passion for coding; customising my orriginal *Squarespace* portfolio.  
 [Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
