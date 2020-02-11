@@ -43,17 +43,23 @@ A team project, working to a client's brief to create a social media platform.
 A web app that calculates a players bowling score. I enjoyed coding the surprisingly complex rules of Bowling, finding patterns within the conditions & refactoring them. The app uses jQuery & chart.js to return more data than is originally entered.   
 [Visit live Webpage](https://joshdavies.github.io/bowling-challenge/)  
 [GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
+
+###  🔸 J Davies Creative
+**JavaScript, JSX, React.js, CSS**  
+A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using react and responsive CSS design on a personal project.  
+[Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
+[GitHub Link for further information](https://github.com/JoshDavies/jdaviescreative)    
   
 -------------
 # Skills
 #### 🔸 Problem solver
-I enjoy breaking complexity down into simple steps by planning ahead & evalutating in retrospect. As a property manager, good communication with residents & contractors was essential to resolving all kinds of issues. 
-
-#### 🔸 Creative   
-I am passionate about great design of all kinds, including devoloping well structured code. Studying as an artist, taught me to continually self-evaluate work and listen to peer feedback in order to improve.    
-
+I enjoy breaking complexity down into simple steps by planning ahead & evalutating solutions. Following this process as a developer ensures that I understand the task set and pay close attention to the details. As a property manager, good communication with residents & contractors was fundamental to resolving all manner of problems. 
+  
 #### 🔸 Fast learner
-I started work in the property sector inexperienced. By demonstrating a willingness to learn, I was promoted to managing my own portfolio after 16 months. I apply this same mindset to programming; learning to build an app in a new language within two weeks.  
+I completed Makers Academy's intensive devleoper course, learning to build an app in a new language within two weeks for my final project. In my last career, I was promoted from entry level to managing my own portfolio after 16 months by demonstrating a willingness to learn.
+  
+#### 🔸 Creative   
+I am passionate about great design of all kinds, including devoloping well structured code. I enjoy thinking of new approaches to reach a goal. Studying as an artist, taught me to continually self-evaluate work and seek peer feedback in order to improve. 
 
 -----------
 # Education
@@ -77,8 +83,7 @@ BA (Hons) - Illustration (2:1)
 ### *Trainee Property Manager*  
 Responsible for maintaining a diverse portfolio of private residential properties in London. Acting as the central point of contact for 14 sites with a total of 495 units. (Managing communal structures & areas not individual apartments).  
 ✅ Advising leaseholders on their account finances, lease contract or building insurance.   
-✅ Meeting with clients & residents onsite.   
-✅ Prioritising urgent issues whilst delegating smaller tasks to team members.   
+✅ Meeting with clients & residents onsite.    
 ✅ Overseeing major works projects, e.g. external redecorations, subsidence, etc.   
 ✅ Managing property finances; reviewing expenditure, maintaining cash flow and drafting new financial year budgets.  
 ✅ Managing onsite staff; cleaners, gardeners & caretakers.   
@@ -87,25 +92,12 @@ Responsible for maintaining a diverse portfolio of private residential propertie
 Assistant to four property managers and an associate director.   
 ✅ Covering team member’s portfolio during annual leave or emergency situations.   
 ✅ Supporting the Customer contact centre; training new staff & answering overflow calls.  
-✅ Reception / front of house cover.  
 ✅ Drafting official letters to residents on behalf of team members.  
 ✅ Investigating database records to settle missing payment enquiries.  
 ✅ Using admin rights to troubleshoot customer’s online account issues.
 
 ### *Customer Service Advisor*  
 Dealing with standard financial / property queries as well as customers in highly stressful situations.
-
-### 🔸 **The Affordable Art Fair**
- *Event Assistant* (Short-term events: 2014 – 2017)   
-
-### 🔸 **Waitrose**  
-*Supermarket Assistant* (Part-time evening shifts: Aug 2015 – Mar 2017)   
-
-### 🔸 **Gallery Represented Artist**
-(2014 – 2017) Now, I paint as a hobby. [portfolio](http://www.jdaviesillustration.com/)
-
-### 🔸 **The National Trust**
-*Creative Events Intern* (May 2015 – Oct 2015)   
 
 --------
 # Hobbies
