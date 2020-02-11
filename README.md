@@ -27,7 +27,7 @@ The best quality about tech is it's community and that it there is always someth
 # Example Projects
 ### 🔎 Jack the Ripper
 **Swift, Xcode, XCTest**  
-A team project to create an iOS Detective App in less than two weeks, all with no prior experience coding in Xcode & Swift.    
+A team project to create an iOS Detective mobile App in less than two weeks, all with no prior experience coding in Xcode & Swift. The project intergrates Geo-location to unlock new challenges and unfold the mystery.     
 [GitHub Link for further information](https://github.com/JoshDavies/Team-6-Game)  
 [![Build Status](https://travis-ci.com/robertamangiapane/Team-6-Game.svg?branch=master)](https://travis-ci.com/robertamangiapane/Team-6-Game)
   
