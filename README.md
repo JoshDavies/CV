@@ -70,8 +70,6 @@ An Intensive software developer course that focuses on independent learning & pa
 ❇️ HTTP, HTML, CSS, SQL  
 ❇️ Ruby, Rails, Rspec, Capybara  
 ❇️ Swift, Xcode, XCTest   
-  
-❇️ Before Makers, whilst looking for ways to break into the tech industry, I studied salesforce administration online. 
 
 #### 🔸 Arts University Bournemouth (Sept 2011 - 2014)
 BA (Hons) - Illustration (2:1)
