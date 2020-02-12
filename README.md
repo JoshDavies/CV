@@ -98,6 +98,8 @@ Assistant to four property managers and an associate director.
 
 ### *Customer Service Advisor*  
 Dealing with standard financial / property queries as well as customers in highly stressful situations.
+  
+[Linkedin Profile for further information](https://www.linkedin.com/in/joshua-davies-70bb75128/)  
 
 --------
 # Hobbies
