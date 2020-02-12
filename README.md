@@ -53,13 +53,13 @@ A single-page web portfolio that showcases my hobbie as an artist. The focus of 
 -------------
 # Skills
 #### 🔸 Problem solver
-I enjoy breaking complexity down into simple steps by planning ahead & evalutating solutions. Following this process as a developer ensures that I understand the task set and pay close attention to the details. As a property manager, good communication with residents & contractors was fundamental to resolving all manner of problems. 
+I enjoy breaking complexity down into simple steps by planning ahead & evaluating solutions. Following this process as a developer ensures that I understand the task set and pay close attention to the details. As a property manager, good communication with residents & contractors was fundamental to resolving all manner of problems. 
   
 #### 🔸 Fast learner
-I completed Makers Academy's intensive devleoper course, learning to build an app in a new language within two weeks for my final project. In my last career, I was promoted from entry level to managing my own portfolio after 16 months by demonstrating a willingness to learn.
+I completed Makers Academy's intensive developer course, learning to build an app in a new language within two weeks for my final project. In my last career, I was promoted from entry level to managing my own portfolio after 16 months by demonstrating a willingness to learn.
   
 #### 🔸 Creative   
-I am passionate about great design of all kinds, including devoloping well structured code. I enjoy thinking of new approaches to reach a goal. Studying as an artist, taught me to continually self-evaluate work and seek peer feedback in order to improve. 
+I am passionate about great design of all kinds, including developing well-structured code. I enjoy thinking of new approaches to reach a goal. Studying as an artist, taught me to continually self-evaluate work and seek peer feedback in order to improve. 
 
 -----------
 # Education
