@@ -21,7 +21,7 @@ Full stack software developer.
 
 For me, programming combines my two passions; problem solving & creativity. My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. 
 
-The best quality about tech is it's community and that it there is always something new to learn. Every day brings new challenges but there is so much support and reasources to learn from.
+The best quality about tech is it's community and that it there is always something new to learn. Every day brings new challenges but there is so much support and reasources to learn from. The most important quality I am looking for in a company is one that will continue to drive the learning journey I began with Makers Academey. 
 
 -------------
 # Example Projects
