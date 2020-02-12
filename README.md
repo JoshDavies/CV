@@ -63,7 +63,7 @@ I am passionate about great design of all kinds, including devoloping well struc
 
 -----------
 # Education
-#### 🔸 Makers Academy (Aug - Dec 2019: 4 weeks offsite pre-course & 12 weeks onsite)
+#### 🔸 Makers Academy (Aug - Dec 2019)
 An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)   
 ❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile  
 ❇️ JavaScript, Jasmine, jQuery, React   
