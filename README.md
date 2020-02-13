@@ -64,7 +64,7 @@ I am passionate about great design of all kinds, including developing well-struc
 -----------
 # Education
 #### 🔸 Makers Academy (Aug - Dec 2019)
-An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/)   
+An Intensive software developer course that focuses on independent learning & pair programming. [Makers Website](https://makers.tech/hire/)   
 ❇️ Git, OOP, TDD / BDD, MVC, SOLID, Agile  
 ❇️ JavaScript, Jasmine, jQuery, React   
 ❇️ HTTP, HTML, CSS, SQL  
