@@ -71,17 +71,17 @@ Tech stack: React, JavaScript, TypeScript, Mobx, SCSS
 avadolearning.com is an online learning platform with a large student & teacher user base that helps people to achieve professional qualifications. The Dev team’s high level goal was to gradually re-platform away from an out-dated third party platform; re-placing existing functionality and adding new features to automate labour intensive tasks. 
 
 🔹 Achievements: 
-•	Scoping Epics from Jira tickets and Xd docs as part of an Agile team and writing planning documentation. 
-•	Taking a lead role in regards to the front end, communicating any requirements to the back-end team.
-•	Using RESTful API’s, handling business logic client side, programming complex JS stores to process raw data into a useful interface. 
-•	Using React to code in a component driven manner with consideration for user accessibility and mobile friendly styling. 
-•	Working individually or pair programming. 
-•	Showcasing project iteration updates to the CTO, product owners and stakeholders in weekly meetings.
-•	Reviewing and testing other team’s pull requests, reporting bugs or required code improvements. 
-•	Teaching best front end practises to other team members through Knowledge sharing presentations, pair programing and written documentation.
-•	Coding a reusable global component library for fast, consistent, performant, maintainable development. 
-•	Troubleshooting bug tickets.
-
+•	Scoping Epics from Jira tickets and Xd docs as part of an Agile team and writing planning documentation.  
+•	Taking a lead role in regards to the front end, communicating any requirements to the back-end team.  
+•	Using RESTful API’s, handling business logic client side, programming complex JS stores to process raw data into a useful interface.  
+•	Using React to code in a component driven manner with consideration for user accessibility and mobile friendly styling.  
+•	Working individually or pair programming.  
+•	Showcasing project iteration updates to the CTO, product owners and stakeholders in weekly meetings.  
+•	Reviewing and testing other team’s pull requests, reporting bugs or required code improvements.  
+•	Teaching best front end practises to other team members through Knowledge sharing presentations, pair programing and written documentation.  
+•	Coding a reusable global component library for fast, consistent, performant, maintainable development.  
+•	Troubleshooting bug tickets.  
+  
 [Linkedin Profile for further information](https://www.linkedin.com/in/joshua-davies-70bb75128/)  
 
 -----------
