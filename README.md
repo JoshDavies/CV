@@ -15,7 +15,7 @@
 </p>
 
 # Profile
-Full stack software developer.
+Frontend software developer.
 
 > Measure Twice, Cut Once.
 
@@ -66,7 +66,7 @@ I am passionate about great design of all kinds, including developing well-struc
 ### 🔸 **Frontend Platform Developer**
 February 2020 – Present (1 year, 3 months)
 ### *AVADO*  
-Tech stack: React, JavaScript, TypeScript, Mobx, SCSS
+**React, JavaScript, TypeScript, Mobx, SCSS**
 
 avadolearning.com is an online learning platform with a large student & teacher user base that helps people to achieve professional qualifications. The Dev team’s high level goal was to gradually re-platform away from an out-dated third party platform; re-placing existing functionality and adding new features to automate labour intensive tasks. 
 
