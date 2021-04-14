@@ -61,6 +61,29 @@ I completed Makers Academy's intensive developer course, learning to build an ap
 #### 🔸 Creative   
 I am passionate about great design of all kinds, including developing well-structured code. I enjoy thinking of new approaches to reach a goal. Studying as an artist, taught me to continually self-evaluate work and seek peer feedback in order to improve. 
 
+----------------
+# Experience
+### 🔸 **Frontend Platform Developer**
+February 2020 – Present (1 year, 3 months)
+### *AVADO*  
+Tech stack: React, JavaScript, TypeScript, Mobx, SCSS
+
+avadolearning.com is an online learning platform with a large student & teacher user base that helps people to achieve professional qualifications. The Dev team’s high level goal was to gradually re-platform away from an out-dated third party platform; re-placing existing functionality and adding new features to automate labour intensive tasks. 
+
+🔹 Achievements: 
+•	Scoping Epics from Jira tickets and Xd docs as part of an Agile team and writing planning documentation. 
+•	Taking a lead role in regards to the front end, communicating any requirements to the back-end team.
+•	Using RESTful API’s, handling business logic client side, programming complex JS stores to process raw data into a useful interface. 
+•	Using React to code in a component driven manner with consideration for user accessibility and mobile friendly styling. 
+•	Working individually or pair programming. 
+•	Showcasing project iteration updates to the CTO, product owners and stakeholders in weekly meetings.
+•	Reviewing and testing other team’s pull requests, reporting bugs or required code improvements. 
+•	Teaching best front end practises to other team members through Knowledge sharing presentations, pair programing and written documentation.
+•	Coding a reusable global component library for fast, consistent, performant, maintainable development. 
+•	Troubleshooting bug tickets.
+
+[Linkedin Profile for further information](https://www.linkedin.com/in/joshua-davies-70bb75128/)  
+
 -----------
 # Education
 #### 🔸 Makers Academy (Aug - Dec 2019)
@@ -74,33 +97,6 @@ An Intensive software developer course that focuses on independent learning & pa
 #### 🔸 Arts University Bournemouth (Sept 2011 - 2014)
 BA (Hons) - Illustration (2:1)
 
-----------------
-# Experience
-### 🔸 **Residential Management Group**
-(March 2017 – October 2018)  
-### *Trainee Property Manager*  
-Responsible for maintaining a diverse portfolio of private residential properties in London. Acting as the central point of contact for 14 sites with a total of 495 units. (Managing communal structures & areas not individual apartments).  
-✅ Advising leaseholders on their account finances, lease contract or building insurance.   
-✅ Meeting with clients & residents onsite.    
-✅ Overseeing major works projects, e.g. external redecorations, subsidence, etc.   
-✅ Managing property finances; reviewing expenditure, maintaining cash flow and drafting new financial year budgets.  
-✅ Managing onsite staff; cleaners, gardeners & caretakers.   
-
-### *Assistant Property Manager*  
-Assistant to four property managers and an associate director.   
-✅ Covering team member’s portfolio during annual leave or emergency situations.   
-✅ Supporting the Customer contact centre; training new staff & answering overflow calls.  
-✅ Drafting official letters to residents on behalf of team members.  
-✅ Investigating database records to settle missing payment enquiries.  
-✅ Using admin rights to troubleshoot customer’s online account issues.
-
-### *Customer Service Advisor*  
-Dealing with standard financial / property queries as well as customers in highly stressful situations.
-  
-[Linkedin Profile for further information](https://www.linkedin.com/in/joshua-davies-70bb75128/)  
-
 --------
 # Hobbies
 Rugby, Table-tennis, Art galleries, Nature, Fantasy / Sci-fi novels, board-games.  
-  
-![CodeWars](https://www.codewars.com/users/JoshDavies/badges/small)
