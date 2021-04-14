@@ -31,7 +31,7 @@ A team project to create an iOS Detective mobile App in less than two weeks, all
   
 ### 🦎 LizardBook
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
-A team project, working to a client's brief to create a social media platform. The Project focused on using a framework to structure databases & work as a cohesive team via pair programing, stand-ups and a trello board.
+A team project, working to a client's brief to create a social media platform. The Project focused on using a framework to structure databases & work as a cohesive team via pair programing, stand-ups and a trello board.  
 [Visit live Webpage](http://lizardbook.herokuapp.com/)  
 [GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-)   
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
