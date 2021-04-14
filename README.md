@@ -80,7 +80,7 @@ avadolearning.com is an online learning platform with a large student & teacher 
 •	Coding a reusable global component library for fast, consistent, performant, maintainable development.  
 •	Troubleshooting bug tickets.  
   
-[Linkedin Profile for further information](https://www.linkedin.com/in/joshua-davies-70bb75128/)  
+[Linkedin Profile for further history](https://www.linkedin.com/in/joshua-davies-70bb75128/)  
 
 -----------
 # Education
