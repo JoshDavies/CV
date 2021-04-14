@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/joshua-davies-70bb75128/">Linkedin</a> •
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
-  <a href="#Skills">Skills</a> •
   <a href="#Experience">Experience</a> •
   <a href="#Education">Education</a> •
+  <a href="#Skills">Skills</a> •
   <a href="#Hobbies">Hobbies</a>
 </p>
 
@@ -48,17 +48,6 @@ A single-page web portfolio that showcases my hobbie as an artist. The focus of 
 [Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
 [GitHub Link for further information](https://github.com/JoshDavies/jdaviescreative)    
   
--------------
-# Skills
-#### 🔸 Problem solver
-I enjoy breaking complexity down into simple steps by planning ahead & evaluating solutions. Following this process as a developer ensures that I understand the task set and pay close attention to the details. As a property manager, good communication with residents & contractors was fundamental to resolving all manner of problems. 
-  
-#### 🔸 Fast learner
-I completed Makers Academy's intensive developer course, learning to build an app in a new language within two weeks for my final project. In my last career, I was promoted from entry level to managing my own portfolio after 16 months by demonstrating a willingness to learn.
-  
-#### 🔸 Creative   
-I am passionate about great design of all kinds, including developing well-structured code. I enjoy thinking of new approaches to reach a goal. Studying as an artist, taught me to continually self-evaluate work and seek peer feedback in order to improve. 
-
 ----------------
 # Experience
 ### 🔸 **Frontend Platform Developer**
@@ -94,7 +83,18 @@ An Intensive software developer course that focuses on independent learning & pa
 
 #### 🔸 Arts University Bournemouth (Sept 2011 - 2014)
 BA (Hons) - Illustration (2:1)
-
+  
+-------------
+# Skills
+#### 🔸 Problem solver
+I enjoy breaking complexity down into simple steps by planning ahead & evaluating solutions. Following this process as a developer ensures that I understand the task set and pay close attention to the details. As a property manager, good communication with residents & contractors was fundamental to resolving all manner of problems. 
+  
+#### 🔸 Fast learner
+I completed Makers Academy's intensive developer course, learning to build an app in a new language within two weeks for my final project. In my last career, I was promoted from entry level to managing my own portfolio after 16 months by demonstrating a willingness to learn.
+  
+#### 🔸 Creative   
+I am passionate about great design of all kinds, including developing well-structured code. I enjoy thinking of new approaches to reach a goal. Studying as an artist, taught me to continually self-evaluate work and seek peer feedback in order to improve. 
+  
 --------
 # Hobbies
 Rugby, Table-tennis, Art galleries, Nature, Fantasy / Sci-fi novels, board-games.  
