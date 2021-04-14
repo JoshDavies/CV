@@ -9,8 +9,8 @@
   <a href="#Profile">Profile</a> •
   <a href="#Projects">Projects</a> •
   <a href="#Skills">Skills</a> •
-  <a href="#Education">Education</a> •
   <a href="#Experience">Experience</a> •
+  <a href="#Education">Education</a> •
   <a href="#Hobbies">Hobbies</a>
 </p>
 
