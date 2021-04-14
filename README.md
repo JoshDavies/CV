@@ -15,11 +15,9 @@
 </p>
 
 # Profile
-Frontend software developer.
+A Front-end developer with over a year of experience developing a user centric, online learning platform. 
 
-> Measure Twice, Cut Once.
-
-For me, programming combines my two passions; problem solving & creativity. My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. 
+Programming combines my two passions; problem solving & creativity. My previous career in the fast paced industry of property management taught me the importance of planning ahead & adapting to new problems. Prior to this, I studied illustration at university & was a gallery represented Artist. 
 
 The best quality about tech is its community and that it there is always something new to learn. Every day brings new challenges but there is so much support and resources to learn from. The most important quality I am looking for in a company is one that will continue to drive the learning journey I began with Makers Academy. 
 
@@ -70,7 +68,7 @@ February 2020 – Present (1 year, 3 months)
 
 avadolearning.com is an online learning platform with a large student & teacher user base that helps people to achieve professional qualifications. The Dev team’s high level goal was to gradually re-platform away from an out-dated third party platform; re-placing existing functionality and adding new features to automate labour intensive tasks. 
 
-🔹 Achievements: 
+🔹 Achievements:  
 •	Scoping Epics from Jira tickets and Xd docs as part of an Agile team and writing planning documentation.  
 •	Taking a lead role in regards to the front end, communicating any requirements to the back-end team.  
 •	Using RESTful API’s, handling business logic client side, programming complex JS stores to process raw data into a useful interface.  
