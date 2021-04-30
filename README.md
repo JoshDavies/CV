@@ -1,6 +1,6 @@
 <div align="center">
   
-![alt text](https://github.com/JoshDavies/CV/blob/master/JoshDavies.png?raw=true)  
+<h1> Josh Davies </h1>
   
 </div>
 
@@ -23,6 +23,13 @@ The best quality about tech is its community and that it there is always somethi
 
 -------------
 # Projects
+   
+### 🖌 Theme Builder
+**JavaScript / TypeScript, React.js, SCSS**  
+A Font End App with multiple color themes. The main goal of this project was to learn more complex scss and use it to create light and dark themes in a maintainable, dry, scalable & dynamic way.  
+[Visit live Webpage](https://joshdavies.github.io/theme-builder/)  
+[GitHub repo for further information](https://github.com/JoshDavies/theme-builder)    
+  
 ### 🔎 Jack the Ripper
 **Swift, Xcode, XCTest**  
 A team project to create an iOS Detective mobile App in less than two weeks, all with no prior experience coding in Xcode & Swift. The project intergrates Geo-location to unlock new challenges and unfold the mystery.     
@@ -33,21 +40,21 @@ A team project to create an iOS Detective mobile App in less than two weeks, all
 **Ruby, Rails, RSpec,Capybara, Bcrypt, JQuery**  
 A team project, working to a client's brief to create a social media platform. The Project focused on using a framework to structure databases & work as a cohesive team via pair programing, stand-ups and a trello board.  
 [Visit live Webpage](http://lizardbook.herokuapp.com/)  
-[GitHub Link for further information](https://github.com/JoshDavies/acebook--LizardBook-)   
+[GitHub repo for further information](https://github.com/JoshDavies/acebook--LizardBook-)   
 [![Build Status](https://travis-ci.com/Mezela/acebook--LizardBook-.svg?branch=master)](https://travis-ci.com/Mezela/acebook--LizardBook-)
   
 ### 🎳 Bowling Challenge
 **JavaScript (ES5), Jasmine, JQuery, chart.js**  
 A web app that calculates a players bowling score. I enjoyed coding the surprisingly complex rules of Bowling, finding patterns within the conditions & refactoring them. The app uses jQuery & chart.js to return more data than is originally entered.   
 [Visit live Webpage](https://joshdavies.github.io/bowling-challenge/)  
-[GitHub Link for further information](https://github.com/JoshDavies/bowling-challenge)  
-
+[GitHub repo for further information](https://github.com/JoshDavies/bowling-challenge)  
+  
 ###  🎨 J Davies Creative
 **JavaScript, JSX, React.js, CSS**  
 A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using React.js and responsive CSS design on a personal project. The project also pays homage to where I first discoverd my passion for coding; customising my orriginal *Squarespace* portfolio.  
 [Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
-[GitHub Link for further information](https://github.com/JoshDavies/jdaviescreative)    
-  
+[GitHub repo for further information](https://github.com/JoshDavies/jdaviescreative)    
+   
 ----------------
 # Experience
 ### 🔸 **Frontend Platform Developer**
