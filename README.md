@@ -23,9 +23,14 @@ The best quality about tech is its community and that it there is always somethi
 
 -------------
 # Projects
-   
-### 🖌 Theme Builder
-**JavaScript / TypeScript, React.js, SCSS**  
+  
+### 🍿 Movie Database
+**React.js, MobX, JavaScript / TypeScript, SCSS**  
+A Font End App that fetches from the Movie Database's API to display a list of popular movies including user ratings and release dates. Plus the ability to toggle between light and dark themes.   
+[GitHub repo for further information](https://github.com/JoshDavies/movie-database)    
+     
+### 🖌️ Theme Builder
+**React.js, JavaScript / TypeScript, SCSS**  
 A Font End App with multiple color themes. The main goal of this project was to learn more complex scss and use it to create light and dark themes in a maintainable, dry, scalable & dynamic way.  
 [Visit live Webpage](https://joshdavies.github.io/theme-builder/)  
 [GitHub repo for further information](https://github.com/JoshDavies/theme-builder)    
@@ -50,7 +55,7 @@ A web app that calculates a players bowling score. I enjoyed coding the surprisi
 [GitHub repo for further information](https://github.com/JoshDavies/bowling-challenge)  
   
 ###  🎨 J Davies Creative
-**JavaScript, JSX, React.js, CSS**  
+** React.js, JavaScript, CSS**  
 A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using React.js and responsive CSS design on a personal project. The project also pays homage to where I first discoverd my passion for coding; customising my orriginal *Squarespace* portfolio.  
 [Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
 [GitHub repo for further information](https://github.com/JoshDavies/jdaviescreative)    
